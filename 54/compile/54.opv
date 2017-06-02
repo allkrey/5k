@@ -1,0 +1,1 @@
+ -erf "c:\My_Designs\5k\54\compile\54.erf" -work 54 -lc c:/My_Designs/5k/library.cfg -fl c:/My_Designs/5k/54/projlib.cfg -o c:/My_Designs/5k/54/compile -l "54" -sve   -O2

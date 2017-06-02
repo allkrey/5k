@@ -1,0 +1,87 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=54
+
+[Library]
+54=.\54.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\ßנמסכאג\Desktop\ׁנק\גץהכ\נאבמקוו2\mips-5000\Hardware\MIPS5000_Standalone
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+54=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Add.v=-1
+/ALU.v=-1
+/Compare.v=-1
+/Control.v=-1
+/CPZero.v=-1
+/Divide.v=-1
+/EXMEM_Stage.v=-1
+/Hazard_Detection.v=-1
+/IDEX_Stage.v=-1
+/IFID_Stage.v=-1
+/MemControl.v=-1
+/MEMWB_Stage.v=-1
+/MIPS_Parameters.v=-1
+/Mux2.v=-1
+/Mux4.v=-1
+/Processor.v=-1
+/Register.v=-1
+/RegisterFile.v=-1
+/TrapDetect.v=-1
+
+[Files.Data]
+.\src\Add.v=Verilog Source Code
+.\src\ALU.v=Verilog Source Code
+.\src\Compare.v=Verilog Source Code
+.\src\Control.v=Verilog Source Code
+.\src\CPZero.v=Verilog Source Code
+.\src\Divide.v=Verilog Source Code
+.\src\EXMEM_Stage.v=Verilog Source Code
+.\src\Hazard_Detection.v=Verilog Source Code
+.\src\IDEX_Stage.v=Verilog Source Code
+.\src\IFID_Stage.v=Verilog Source Code
+.\src\MemControl.v=Verilog Source Code
+.\src\MEMWB_Stage.v=Verilog Source Code
+.\src\MIPS_Parameters.v=Verilog Source Code
+.\src\Mux2.v=Verilog Source Code
+.\src\Mux4.v=Verilog Source Code
+.\src\Processor.v=Verilog Source Code
+.\src\Register.v=Verilog Source Code
+.\src\RegisterFile.v=Verilog Source Code
+.\src\TrapDetect.v=Verilog Source Code
+

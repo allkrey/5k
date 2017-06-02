@@ -1,0 +1,20 @@
+[Files List]
+C:\Aldec\Active-HDL 9.1\Vlib\std/src/standard.vhd=S
+c:\My_Designs\5k\54/src/Divide.v=S
+c:\My_Designs\5k\54/src/Mux2.v=S
+c:\My_Designs\5k\54/src/MEMWB_Stage.v=S
+c:\My_Designs\5k\54/src/MemControl.v=S
+c:\My_Designs\5k\54/src/TrapDetect.v=S
+c:\My_Designs\5k\54/src/EXMEM_Stage.v=S
+c:\My_Designs\5k\54/src/ALU.v=S
+c:\My_Designs\5k\54/src/Mux4.v=S
+c:\My_Designs\5k\54/src/IDEX_Stage.v=S
+c:\My_Designs\5k\54/src/Add.v=S
+c:\My_Designs\5k\54/src/Compare.v=S
+c:\My_Designs\5k\54/src/RegisterFile.v=S
+c:\My_Designs\5k\54/src/IFID_Stage.v=S
+c:\My_Designs\5k\54/src/Register.v=S
+c:\My_Designs\5k\54/src/CPZero.v=S
+c:\My_Designs\5k\54/src/Hazard_Detection.v=S
+c:\My_Designs\5k\54/src/Control.v=S
+c:\My_Designs\5k\54/src/Processor.v=S

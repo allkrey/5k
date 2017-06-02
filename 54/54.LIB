@@ -1,0 +1,165 @@
+timestamp=1496393147427
+
+[$root]
+A/$root=22|""|0|1*0
+BinI32/$root=3*0
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[ALU]
+A/ALU=22|./src/ALU.v|21|1*1486
+BinI32/ALU=3*661
+P/~emb=514,1728,4203,4594
+R=./src/ALU.v|21
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Add]
+A/Add=22|./src/Add.v|17|1*390
+BinI32/Add=3*139
+P/~emb=146,289,426,496
+R=./src/Add.v|17
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[CPZero]
+A/CPZero=22|./src/CPZero.v|23|1*26883
+BinI32/CPZero=3*20503
+P/~emb=2166,3467,5809,6193
+R=./src/CPZero.v|23
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Compare]
+A/Compare=22|./src/Compare.v|22|1*12076
+BinI32/Compare=3*9270
+P/~emb=266,453,683,754
+R=./src/Compare.v|22
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Control]
+A/Control=22|./src/Control.v|21|1*14104
+BinI32/Control=3*10190
+P/~emb=1723,3041,6958,7667
+R=./src/Control.v|21
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Divide]
+A/Divide=22|./src/Divide.v|21|1*8716
+BinI32/Divide=3*7249
+P/~emb=412,709,1156,1320
+R=./src/Divide.v|21
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[EXMEM_Stage]
+A/EXMEM_Stage=22|./src/EXMEM_Stage.v|18|1*50507
+BinI32/EXMEM_Stage=3*31627
+P/~emb=2132,2665,3068,3157
+R=./src/EXMEM_Stage.v|18
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Hazard_Detection]
+A/Hazard_Detection=22|./src/Hazard_Detection.v|25|1*57092
+BinI32/Hazard_Detection=3*34626
+P/~emb=1542,2237,3055,3125
+R=./src/Hazard_Detection.v|25
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[IDEX_Stage]
+A/IDEX_Stage=22|./src/IDEX_Stage.v|19|1*72878
+BinI32/IDEX_Stage=3*39483
+P/~emb=3304,4053,4767,4855
+R=./src/IDEX_Stage.v|19
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[IFID_Stage]
+A/IFID_Stage=22|./src/IFID_Stage.v|19|1*82959
+BinI32/IFID_Stage=3*44287
+P/~emb=674,941,1137,1226
+R=./src/IFID_Stage.v|19
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[MEMWB_Stage]
+A/MEMWB_Stage=22|./src/MEMWB_Stage.v|18|1*95114
+BinI32/MEMWB_Stage=3*52181
+P/~emb=713,998,1203,1292
+R=./src/MEMWB_Stage.v|18
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[MemControl]
+A/MemControl=22|./src/MemControl.v|25|1*85458
+BinI32/MemControl=3*45776
+P/~emb=1112,1759,3230,3578
+R=./src/MemControl.v|25
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Mux2]
+A/Mux2=22|./src/Mux2.v|17|1*97882
+BinI32/Mux2=3*53625
+P/~emb=226,387,557,627
+R=./src/Mux2.v|17
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Mux4]
+A/Mux4=22|./src/Mux4.v|17|1*99332
+BinI32/Mux4=3*55133
+P/~emb=310,500,750,855
+R=./src/Mux4.v|17
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Processor]
+A/Processor=22|./src/Processor.v|21|1*101166
+BinI32/Processor=3*56311
+P/~emb=1311,3878,5739,10447
+R=./src/Processor.v|21
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[Register]
+A/Register=22|./src/Register.v|18|1*138260
+BinI32/Register=3*59079
+P/~emb=277,466,656,758
+R=./src/Register.v|18
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[RegisterFile]
+A/RegisterFile=22|./src/RegisterFile.v|19|1*140163
+BinI32/RegisterFile=3*62795
+P/~emb=450,693,1054,1211
+R=./src/RegisterFile.v|19
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[TrapDetect]
+A/TrapDetect=22|./src/TrapDetect.v|17|1*142859
+BinI32/TrapDetect=3*64425
+P/~emb=219,413,571,641
+R=./src/TrapDetect.v|17
+Version=9.1.2353.4205  (Windows)|00000009789cd3cd51303551d0f537020009f701f1
+
+[~A]
+LastVerilogToplevel=Processor
+ModifyID=115
+Version=73
+c:/My_Designs/5k/54/src/Add.v_ALU.v_Compare.v_Control.v_CPZero.v_Divide.v_EXMEM_Stage.v_Hazard_Detection.v_IDEX_Stage.v_IFID_Stage.v_MemControl.v_MEMWB_Stage.v_MIPS_Parameters.v_Mux2.v_Mux4.v_Processor.v_Register.v_RegisterFile.v_TrapDetect.v=0*71750*99298
+
+[~MFT]
+0=20|054.mgf|99298|0
+1=18|154.mgf|142859|0
+3=18|354.mgf|64425|0
+
+[~U]
+$root=12|0*0|
+ALU=12|0*915||0x80
+Add=12|0*278||0x80
+CPZero=12|0*22708||0x80
+Compare=12|0*9934||0x80
+Control=12|0*10925||0x80
+Divide=12|0*7944||0x80
+EXMEM_Stage=12|0*32112||0x80
+Hazard_Detection=12|0*35869||0x80
+IDEX_Stage=12|0*40019||0x80
+IFID_Stage=12|0*45795||0x80
+MEMWB_Stage=12|0*52843||0x80
+MemControl=12|0*47319||0x80
+Mux2=12|0*54426||0x80
+Mux4=12|0*55202||0x80
+Processor=12|0*56284||0x90
+Register=12|0*68388||0x80
+RegisterFile=12|0*69356||0x80
+TrapDetect=12|0*70930||0x80
+
